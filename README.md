@@ -9,7 +9,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- 🚣‍♀️: nayra
+- 🤠 nayra
 - :woman: minombre
 - :woman: minombre 
 
