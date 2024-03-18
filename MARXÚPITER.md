@@ -1,5 +1,5 @@
 
-# MARXÚPITER: La Guerra Entre Dos Mundos
+# MARXÚPITER: Guerra Entre Dos Mundos
 ### Una historia de amor e idología
 
 
