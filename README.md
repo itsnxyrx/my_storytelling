@@ -1,7 +1,7 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling
-Plantilla para crear el storytelling (CDNCAV-b)
+# MARXÚPITER: La Guerra Entre Dos Mundos
+### Una historia de amor e idología
+
 
 Autores:  
 <!---
@@ -9,26 +9,31 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- 🤠 nayra
-- :woman: minombre
-- :woman: minombre 
+- :🤠: Nayra Gallardo García
+- :👩‍🦲: Clara Gagino Mato
+- :🧙‍♀️:Clara Rivero Serna
 
 
-Proyecto (código): 
+Proyecto (código): Grupo 13
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
 ## Resumen
+Año 2917.  La colonización capitalista ha llegado a la invasión de otros planetas y la Tierra, capitaneada por el Agente Weber, descubre "Marxúpiter", una utopía basada en los principios marxistas cuya líder es una guerrera descendente de líderes soviéticos, Atilea. El afán de la Tierra por implantar su ideología conduce a una guerra entre los dos mundos. Una inesperada historia de amor entre ambos dificultará la misión de los dos protagonistas, encontrándose ante la indecisión de luchar por amor o ideología.
 
 
 ### Personaje
+![CARTEL ATILEA](https://github.com/itsnxyrx/my_storytelling/assets/163114067/2d44a2e4-a08d-481f-9c55-029c90e4be5c)
 
-![](img-nobody.png)
+
+![ATILEA](img-ATILEA1.png)
+
+
 
 Nombre: 
 
