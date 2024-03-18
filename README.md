@@ -30,8 +30,10 @@ Año 2917.  La colonización capitalista ha llegado a la invasión de otros plan
 ### Personaje
 ![CARTEL ATILEA](https://github.com/itsnxyrx/my_storytelling/assets/163114067/2d44a2e4-a08d-481f-9c55-029c90e4be5c)
 
+![CARTEL WEBER](https://github.com/itsnxyrx/my_storytelling/assets/163114067/22eec1b7-fbb4-4235-8316-8f219b4c20a8)
 
-![ATILEA](img-ATILEA1.png)
+
+![](img-ATILEA1.png)
 
 
 
