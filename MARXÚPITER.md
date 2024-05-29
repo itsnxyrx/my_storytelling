@@ -58,7 +58,8 @@ Encontramos diferentes tipos de conflictos, uno principal y uno subyacente. El p
 
 - Banner/Teaser: Protopie https://cloud.protopie.io/p/98c059782fa7066935c8257c Arcwave https://arcweave.com/app/project/dQlAQm5lng/play
 
-- Storytelling: (enlace) 
+- Storytelling: http://127.0.0.1:8042/index.html
+  
 
 
 
